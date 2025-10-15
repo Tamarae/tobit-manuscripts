@@ -1,0 +1,1325 @@
+<?xml version="1.0" ?>
+<root>
+	<Info type="dict">
+		<title type="str">ტობის წიგნი, მატენადარანი</title>
+		<editor type="str">ნათია დუნდუა</editor>
+		<publisher type="str">ლინგვისტურ კვლევათა ინსტიტუტი</publisher>
+		<email type="str">dunduanatia@gmail.com</email>
+		<publisher-uni type="str">ილიას სახელმწიფო უნივერსიტეტი</publisher-uni>
+		<pubPlace type="str">თბილისი</pubPlace>
+		<publish_date type="str">2021</publish_date>
+		<licence type="str"> </licence>
+		<SourceDesc type="dict">
+			<idno type="str"> </idno>
+			<title type="str"> </title>
+			<sourceStatus type="str"> </sourceStatus>
+			<location type="str"> </location>
+			<date type="str"> </date>
+			<additionalDetail type="str"> </additionalDetail>
+		</SourceDesc>
+	</Info>
+	<content type="list">
+		<item type="dict">
+			<index type="str">1,2  ენემესარისთა, მეფისა ასურასტანისათა, თეზბეთ, რომელ არს მარჯუჱნით კედეოზსა. რომელ არს ნეფთალიმისი. გალილეას, ზემოკერძო ასერსა:.</index>
+			<text type="str"/>
+			<translation type="str"> </translation>
+			<tags type="list"/>
+		</item>
+		<item type="dict">
+			<index type="str">1,3</index>
+			<text type="str">მე, ტობი, გზათა ჭეშმარიტებისათა ვიდოდე და სიმართლისათა. ყოველთა დღეთა ცხორებისა ჩემისათა. და მოწყალებანი და ქველის საქმენი მრავალნი ვყვენ ძმათა მიმართ ჩემთა და ნათესავთა ჩემთა . რომელნი თანა-მივიდოდეს მე, მი-რაჲ-ვიდოდეთ ჩუენ სოფლად ასურასტანელთა - ნინევედ :.</text>
+			<translation type="str">Ἐγὼ Τωβὶτ ὁδοῖς ἀληθείας ἐπορευόμην καὶ δικαιοσύνης πάσας τὰς ἡμέρας τῆς ζωῆς μου καὶ ἐλεημοσύνας  (doubl,Geo) πολλὰς ἐποίησα τοῖς ἀδελφοῖς μου καὶ τῷ ἔθνει μου(=GII) τοῖς συμπορευθεῖσιν (doubl,Geo) μετ᾽ ἐμοῦ εἰς χώραν Ἀσσυρίων εἰς Νινευή</translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">1</id>
+					<ogeo type="str">მე,</ogeo>
+					<lemma type="str">მე</lemma>
+					<gram type="str">PRON. Sg. Nom</gram>
+					<grc type="str">Ἐγὼ</grc>
+					<arm type="str">Ե՛ս </arm>
+					<eng type="str">I</eng>
+				</item>
+				<item type="dict">
+					<id type="int">2</id>
+					<ogeo type="str">ტობი,</ogeo>
+					<lemma type="str">ტობი</lemma>
+					<gram type="str">PN. Nom</gram>
+					<grc type="str">Τωβὶτ</grc>
+					<arm type="str">Տուբիթ </arm>
+					<eng type="str">Tobit</eng>
+				</item>
+				<item type="dict">
+					<id type="int">3</id>
+					<ogeo type="str">გზათა</ogeo>
+					<lemma type="str">გზა</lemma>
+					<gram type="str">N. Pl. Dat</gram>
+					<grc type="str">ὁδοῖς </grc>
+					<arm type="str">զճանապարհս </arm>
+					<eng type="str">road</eng>
+				</item>
+				<item type="dict">
+					<id type="int">4</id>
+					<ogeo type="str">ჭეშმარიტებისათა</ogeo>
+					<lemma type="str">ჭეშმარიტება</lemma>
+					<gram type="str">N. Pl. Gen</gram>
+					<grc type="str">ἀληθείας </grc>
+					<arm type="str">ճշմարտութեան </arm>
+					<eng type="str">justice</eng>
+				</item>
+				<item type="dict">
+					<id type="int">5</id>
+					<ogeo type="str">ვიდოდე</ogeo>
+					<lemma type="str">სლვა</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐπορευόμην </grc>
+					<arm type="str">գնացի </arm>
+					<eng type="str">go</eng>
+				</item>
+				<item type="dict">
+					<id type="int">6</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">7</id>
+					<ogeo type="str">სიმართლისათა.</ogeo>
+					<lemma type="str">სიმართლე</lemma>
+					<gram type="str">N.Pl.Gen</gram>
+					<grc type="str">δικαιοσύνης</grc>
+					<arm type="str">յարդարութեան </arm>
+					<eng type="str">truth</eng>
+				</item>
+				<item type="dict">
+					<id type="int">8</id>
+					<ogeo type="str">ყოველთა</ogeo>
+					<lemma type="str">ყოველ</lemma>
+					<gram type="str">PRON.Pl.Dat</gram>
+					<grc type="str">πάσας</grc>
+					<arm type="str">զամենայն </arm>
+					<eng type="str">each</eng>
+				</item>
+				<item type="dict">
+					<id type="int">9</id>
+					<ogeo type="str">დღეთა</ogeo>
+					<lemma type="str">დღე</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τὰς ἡμέρας</grc>
+					<arm type="str">յաւուրս </arm>
+					<eng type="str">day</eng>
+				</item>
+				<item type="dict">
+					<id type="int">10</id>
+					<ogeo type="str">ცხორებისა</ogeo>
+					<lemma type="str">ცხორება</lemma>
+					<gram type="str">N.Sg.Gen</gram>
+					<grc type="str">τῆς ζωῆς</grc>
+					<arm type="str">կենաց </arm>
+					<eng type="str">life</eng>
+				</item>
+				<item type="dict">
+					<id type="int">11</id>
+					<ogeo type="str">ჩემისათა.</ogeo>
+					<lemma type="str">ჩემ</lemma>
+					<gram type="str">PRON.Pl.Gen</gram>
+					<grc type="str">μου </grc>
+					<arm type="str">իմոց </arm>
+					<eng type="str">my</eng>
+				</item>
+				<item type="dict">
+					<id type="int">12</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">13</id>
+					<ogeo type="str">მოწყალებანი</ogeo>
+					<lemma type="str">მოწყალება</lemma>
+					<gram type="str">N.Pl.Nom</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="str">mercy</eng>
+				</item>
+				<item type="dict">
+					<id type="int">14</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">15</id>
+					<ogeo type="str">ქველის</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">16</id>
+					<ogeo type="str">საქმენი</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">17</id>
+					<ogeo type="str">მრავალნი</ogeo>
+					<lemma type="str">მრავალ</lemma>
+					<gram type="str">ADJPl.Nom</gram>
+					<grc type="str">πολλὰς </grc>
+					<arm type="str">բազումս </arm>
+					<eng type="str">many</eng>
+				</item>
+				<item type="dict">
+					<id type="int">18</id>
+					<ogeo type="str">ვყვენ</ogeo>
+					<lemma type="str">ყავ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐποίησα </grc>
+					<arm type="str">արարի +ես [I]</arm>
+					<eng type="str">make</eng>
+				</item>
+				<item type="dict">
+					<id type="int">19</id>
+					<ogeo type="str">ძმათა</ogeo>
+					<lemma type="str">ძმა</lemma>
+					<gram type="str">N.Pl.Gen</gram>
+					<grc type="str">τοῖς ἀδελφοῖς </grc>
+					<arm type="str">եղբարց </arm>
+					<eng type="str">brother</eng>
+				</item>
+				<item type="dict">
+					<id type="int">20</id>
+					<ogeo type="str">მიმართ</ogeo>
+					<lemma type="str">მიმართ</lemma>
+					<gram type="str">PRP.</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="str">towards</eng>
+				</item>
+				<item type="dict">
+					<id type="int">21</id>
+					<ogeo type="str">ჩემთა</ogeo>
+					<lemma type="str">ჩემ</lemma>
+					<gram type="str">PRON.Pl.Gen</gram>
+					<grc type="str">μου </grc>
+					<arm type="str">իմոց` </arm>
+					<eng type="str">my</eng>
+				</item>
+				<item type="dict">
+					<id type="int">22</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">23</id>
+					<ogeo type="str">ნათესავთა</ogeo>
+					<lemma type="str">ნათესავ</lemma>
+					<gram type="str">N.Pl.Gen</gram>
+					<grc type="str">τῷ ἔθνει </grc>
+					<arm type="str">ազգին </arm>
+					<eng type="str">relative</eng>
+				</item>
+				<item type="dict">
+					<id type="int">24</id>
+					<ogeo type="str">ჩემთა</ogeo>
+					<lemma type="str">ჩემ</lemma>
+					<gram type="str">PRON.Pl.Gen</gram>
+					<grc type="str">μου </grc>
+					<arm type="str">իմոց` </arm>
+					<eng type="str">my</eng>
+				</item>
+				<item type="dict">
+					<id type="int">25</id>
+					<ogeo type="str">.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">26</id>
+					<ogeo type="str">რომელნი</ogeo>
+					<lemma type="str">რომელ</lemma>
+					<gram type="str">PRON.Pl.Nom</gram>
+					<grc type="str">τοῖς</grc>
+					<arm type="str">որ</arm>
+					<eng type="str">which</eng>
+				</item>
+				<item type="dict">
+					<id type="int">27</id>
+					<ogeo type="str">თანა-მივიდოდეს</ogeo>
+					<lemma type="str">თანა-სლვა</lemma>
+					<gram type="str">PV-V.Pres.1Sg</gram>
+					<grc type="str">συμ-πορευθεῖσιν </grc>
+					<arm type="str"> ընդ </arm>
+					<eng type="str">go with</eng>
+				</item>
+				<item type="dict">
+					<id type="int">28</id>
+					<ogeo type="str">მე,</ogeo>
+					<lemma type="str">მე</lemma>
+					<gram type="str">PRON. Sg. Nom</gram>
+					<grc type="str">Ἐγὼ</grc>
+					<arm type="str">Ե՛ս </arm>
+					<eng type="str">I</eng>
+				</item>
+				<item type="dict">
+					<id type="int">29</id>
+					<ogeo type="str">მი-რაჲ-ვიდოდეთ</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">30</id>
+					<ogeo type="str">ჩუენ</ogeo>
+					<lemma type="str">ჩუენ</lemma>
+					<gram type="str">PRON.1Pl.Nom</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="str">we</eng>
+				</item>
+				<item type="dict">
+					<id type="int">31</id>
+					<ogeo type="str">სოფლად</ogeo>
+					<lemma type="str">სოფელ</lemma>
+					<gram type="str">N.Sg.Adv</gram>
+					<grc type="str">εἰς χώραν </grc>
+					<arm type="str">էինյերկրին </arm>
+					<eng type="str">land</eng>
+				</item>
+				<item type="dict">
+					<id type="int">32</id>
+					<ogeo type="str">ასურასტანელთა</ogeo>
+					<lemma type="str">ასურასტანელ</lemma>
+					<gram type="str">PN.GEN</gram>
+					<grc type="str">Ἀσσυρίων </grc>
+					<arm type="str">Ասորեստանեայց </arm>
+					<eng type="str">Assyria </eng>
+				</item>
+				<item type="dict">
+					<id type="int">33</id>
+					<ogeo type="str">-</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">34</id>
+					<ogeo type="str">ნინევედ</ogeo>
+					<lemma type="str">ნინევ</lemma>
+					<gram type="str">PN.ADV</gram>
+					<grc type="str">εἰς Νινευή</grc>
+					<arm type="str">՛ի Նինուէ </arm>
+					<eng type="str">Ninive</eng>
+				</item>
+				<item type="dict">
+					<id type="int">35</id>
+					<ogeo type="str">:.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+			</tags>
+		</item>
+		<item type="dict">
+			<index type="str">1,4</index>
+			<text type="str">და ოდეს ვიყავ სოფელსა ჩემსა, ქუეყანასა ისრაელისსა, სიჭაბუკესა ჩემსა . ყოველი ტომი ნეფთალიმისი, მამისა ...</text>
+			<translation type="str">καὶ ὅτε ἤμην ἐν τῇ χώρᾳ μου ἐν τῇ γῇ Ἰσραήλ νεωτέρου μου πᾶσα φυλὴ τοῦ Νεφθαλεὶμ τοῦ πατρός </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">36</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">37</id>
+					<ogeo type="str">ოდეს</ogeo>
+					<lemma type="str">ოდეს</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">ὅτε </grc>
+					<arm type="str">յորժամ  </arm>
+					<eng type="str">when</eng>
+				</item>
+				<item type="dict">
+					<id type="int">38</id>
+					<ogeo type="str">ვიყავ</ogeo>
+					<lemma type="str">ყოფა</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἤμην </grc>
+					<arm type="str">էի +ես  [I]</arm>
+					<eng type="str">be</eng>
+				</item>
+				<item type="dict">
+					<id type="int">39</id>
+					<ogeo type="str">სოფელსა</ogeo>
+					<lemma type="str">სოფელ</lemma>
+					<gram type="str">N.Sg.Dat</gram>
+					<grc type="str">ἐν τῇ χώρᾳ </grc>
+					<arm type="str">՛ի գաւառին  </arm>
+					<eng type="str">land</eng>
+				</item>
+				<item type="dict">
+					<id type="int">40</id>
+					<ogeo type="str">ჩემსა,</ogeo>
+					<lemma type="str">ჩემ</lemma>
+					<gram type="str">PRON.Sg.Dat</gram>
+					<grc type="str">μου </grc>
+					<arm type="str">իմում </arm>
+					<eng type="str">my</eng>
+				</item>
+				<item type="dict">
+					<id type="int">41</id>
+					<ogeo type="str">ქუეყანასა</ogeo>
+					<lemma type="str">ქუეყანა</lemma>
+					<gram type="str">N.Sg.Dat</gram>
+					<grc type="str">ἐν τῇ γῇ </grc>
+					<arm type="str">յերկիրն  </arm>
+					<eng type="str">country</eng>
+				</item>
+				<item type="dict">
+					<id type="int">42</id>
+					<ogeo type="str">ისრაელისსა,</ogeo>
+					<lemma type="str">ისრაელ</lemma>
+					<gram type="str">PN.Gen</gram>
+					<grc type="str">Ἰσραήλ</grc>
+					<arm type="str">Իսրայէլի [Israyēl-i]</arm>
+					<eng type="str">Israel</eng>
+				</item>
+				<item type="dict">
+					<id type="int">43</id>
+					<ogeo type="str">სიჭაბუკესა</ogeo>
+					<lemma type="str">სიჭაბუკე</lemma>
+					<gram type="str">N.Sg.Dat</gram>
+					<grc type="str">νεωτέρου </grc>
+					<arm type="str">մանուկն + էի, [(I) was]</arm>
+					<eng type="str">youth</eng>
+				</item>
+				<item type="dict">
+					<id type="int">44</id>
+					<ogeo type="str">ჩემსა</ogeo>
+					<lemma type="str">ჩემ</lemma>
+					<gram type="str">PRON.Sg.Dat</gram>
+					<grc type="str">μου </grc>
+					<arm type="str">իմում </arm>
+					<eng type="str">my</eng>
+				</item>
+				<item type="dict">
+					<id type="int">45</id>
+					<ogeo type="str">.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">46</id>
+					<ogeo type="str">ყოველი</ogeo>
+					<lemma type="str">ყოველ</lemma>
+					<gram type="str">PRON.Sg.Nom</gram>
+					<grc type="str">πᾶσα</grc>
+					<arm type="str">ամենայն  </arm>
+					<eng type="str">each</eng>
+				</item>
+				<item type="dict">
+					<id type="int">47</id>
+					<ogeo type="str">ტომი</ogeo>
+					<lemma type="str">ტომ</lemma>
+					<gram type="str">N.Sg.Nom</gram>
+					<grc type="str">φυλὴ </grc>
+					<arm type="str">ազգն  </arm>
+					<eng type="str">tribe</eng>
+				</item>
+				<item type="dict">
+					<id type="int">48</id>
+					<ogeo type="str">ნეფთალიმისი,</ogeo>
+					<lemma type="str">ნეფთალიმ</lemma>
+					<gram type="str">PN.Gen</gram>
+					<grc type="str">τῆς Νεφθαλεὶμ</grc>
+					<arm type="str">Նեփթաղիմայ </arm>
+					<eng type="str">Neftalem</eng>
+				</item>
+				<item type="dict">
+					<id type="int">49</id>
+					<ogeo type="str">მამისა</ogeo>
+					<lemma type="str">მამა</lemma>
+					<gram type="str">N.Sg.Gen</gram>
+					<grc type="str">τοῦ πατρός </grc>
+					<arm type="str">հօրն  </arm>
+					<eng type="str">father</eng>
+				</item>
+				<item type="dict">
+					<id type="int">50</id>
+					<ogeo type="str">...</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+			</tags>
+		</item>
+		<item type="dict">
+			<index type="str">1,6 და მე ხოლო მარტოჲ მივიდი მრავალგზის იჱრუსალემდ დღესასწაულთა ვითარცა წერილ არს ყოვლისათჳს ისრაჱლისა ბრძანებითა . საუკუნეთა . პირველთა ნაყოფთასა . და ათეულთა ნაყოფისათა . და პირველნარისუავი ცხოვართაჲ მივიღი</index>
+			<text type="str"/>
+			<translation type="str"> </translation>
+			<tags type="list"/>
+		</item>
+		<item type="dict">
+			<index type="str">1,7</index>
+			<text type="str">და მივსცი იგი მღდელთა ძეთა აჰრონისთა, საკურთხეველსა და ყოველთა ნაყოფთა ათეულსა მივსცემდ ძეთა ლევისთა რომელნი ჰმსახურებდეს იჱრუსალემს. და მეორე ათეული და ვყიდი და მივიდი, შევამსახური იჱრუსალემს თითოეულსა წელიწადსა.</text>
+			<translation type="str">καὶ ἐδίδουν αὐτὰς τοῖς ἱερεῦσιν τοῖς υἱοῖς Ἀαρὼν πρὸς τὸ θυσιαστήριον (+καὶ Geo) πάντων τῶν γενημάτων τὴν δεκάτην ἐδίδουν τοῖς υἱοῖς Λευὶ τοῖς  θεραπεύουσιν εἰς Ἰερουσαλήμ καὶ τὴν δευτέραν δεκάτην ἀπεπρατιζόμην καὶ ἐπορευόμην καὶ ἐδαπάνων ἐν Ἱεροσολύμοις καθ᾽ ἕκαστον ἐνιαυτόν</translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">51</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">52</id>
+					<ogeo type="str">მივსცი</ogeo>
+					<lemma type="str">ცემ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐδίδουν</grc>
+					<arm type="str">տայի </arm>
+					<eng type="str">give</eng>
+				</item>
+				<item type="dict">
+					<id type="int">53</id>
+					<ogeo type="str">იგი</ogeo>
+					<lemma type="str">იგი</lemma>
+					<gram type="str">PRON.Sg.Nom</gram>
+					<grc type="str">αὐτὰς </grc>
+					<arm type="str">զայն </arm>
+					<eng type="str">it</eng>
+				</item>
+				<item type="dict">
+					<id type="int">54</id>
+					<ogeo type="str">მღდელთა</ogeo>
+					<lemma type="str">მღდელ</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τοῖς ἱερεῦσιν </grc>
+					<arm type="str">քահանայիցն</arm>
+					<eng type="str">priest</eng>
+				</item>
+				<item type="dict">
+					<id type="int">55</id>
+					<ogeo type="str">ძეთა</ogeo>
+					<lemma type="str">ძე</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τοῖς υἱοῖς </grc>
+					<arm type="str">որդւոցն </arm>
+					<eng type="str">son</eng>
+				</item>
+				<item type="dict">
+					<id type="int">56</id>
+					<ogeo type="str">აჰრონისთა,</ogeo>
+					<lemma type="str">აჰრონ</lemma>
+					<gram type="str">PN.Gen</gram>
+					<grc type="str">Ἀαρὼν</grc>
+					<arm type="str">Ահարոնի </arm>
+					<eng type="str">Aaron</eng>
+				</item>
+				<item type="dict">
+					<id type="int">57</id>
+					<ogeo type="str">საკურთხეველსა</ogeo>
+					<lemma type="str">საკურთხეველ</lemma>
+					<gram type="str">N.Sg.Dat</gram>
+					<grc type="str">πρὸς τὸ θυσιαστήριον </grc>
+					<arm type="str">առաջի սեղանոյն</arm>
+					<eng type="str">sacrificial alter</eng>
+				</item>
+				<item type="dict">
+					<id type="int">58</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">59</id>
+					<ogeo type="str">ყოველთა</ogeo>
+					<lemma type="str">ყოველ</lemma>
+					<gram type="str">PRON.Pl.Dat</gram>
+					<grc type="str">πάσας</grc>
+					<arm type="str">զամենայն </arm>
+					<eng type="str">each</eng>
+				</item>
+				<item type="dict">
+					<id type="int">60</id>
+					<ogeo type="str">ნაყოფთა</ogeo>
+					<lemma type="str">ნაყოფ</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τῶν γενημάτων</grc>
+					<arm type="str">արդեանցն + Եւ [and]</arm>
+					<eng type="str">fruit</eng>
+				</item>
+				<item type="dict">
+					<id type="int">61</id>
+					<ogeo type="str">ათეულსა</ogeo>
+					<lemma type="str">ათეულ</lemma>
+					<gram type="str">NUM.Sg.Dat</gram>
+					<grc type="str">τὴν δεκάτην</grc>
+					<arm type="str">զտասանորդսն </arm>
+					<eng type="str">tithe</eng>
+				</item>
+				<item type="dict">
+					<id type="int">62</id>
+					<ogeo type="str">მივსცემდ</ogeo>
+					<lemma type="str">ცემ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐδίδουν</grc>
+					<arm type="str">տայի </arm>
+					<eng type="str">give</eng>
+				</item>
+				<item type="dict">
+					<id type="int">63</id>
+					<ogeo type="str">ძეთა</ogeo>
+					<lemma type="str">ძე</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τοῖς υἱοῖς </grc>
+					<arm type="str">որդւոցն </arm>
+					<eng type="str">son</eng>
+				</item>
+				<item type="dict">
+					<id type="int">64</id>
+					<ogeo type="str">ლევისთა</ogeo>
+					<lemma type="str">ლევ</lemma>
+					<gram type="str">PN.Gen</gram>
+					<grc type="str">Λευὶ</grc>
+					<arm type="str">Ղեւեայ </arm>
+					<eng type="str">Leui</eng>
+				</item>
+				<item type="dict">
+					<id type="int">65</id>
+					<ogeo type="str">რომელნი</ogeo>
+					<lemma type="str">რომელ</lemma>
+					<gram type="str">PRON.Pl.Nom</gram>
+					<grc type="str">τοῖς</grc>
+					<arm type="str">որ</arm>
+					<eng type="str">which</eng>
+				</item>
+				<item type="dict">
+					<id type="int">66</id>
+					<ogeo type="str">ჰმსახურებდეს</ogeo>
+					<lemma type="str">მსახურ</lemma>
+					<gram type="str">V.Aor.3Sg</gram>
+					<grc type="str">θεραπεύουσιν</grc>
+					<arm type="str">պաշտօնեայքն էին </arm>
+					<eng type="str">serve</eng>
+				</item>
+				<item type="dict">
+					<id type="int">67</id>
+					<ogeo type="str">იჱრუსალემს.</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">68</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">69</id>
+					<ogeo type="str">მეორე</ogeo>
+					<lemma type="str">მეორე</lemma>
+					<gram type="str">NUM.Nom</gram>
+					<grc type="str">τὴν δευτέραν </grc>
+					<arm type="str">զերկրորդ </arm>
+					<eng type="str">second</eng>
+				</item>
+				<item type="dict">
+					<id type="int">70</id>
+					<ogeo type="str">ათეული</ogeo>
+					<lemma type="str">ათეულ</lemma>
+					<gram type="str">NUM.Nom</gram>
+					<grc type="str">δεκάτην </grc>
+					<arm type="str">տասանորդսն</arm>
+					<eng type="str">tithe</eng>
+				</item>
+				<item type="dict">
+					<id type="int">71</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">72</id>
+					<ogeo type="str">ვყიდი</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">73</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">74</id>
+					<ogeo type="str">მივიდი,</ogeo>
+					<lemma type="str">სლვა</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐπορευόμην </grc>
+					<arm type="str">երթայի </arm>
+					<eng type="str">go</eng>
+				</item>
+				<item type="dict">
+					<id type="int">75</id>
+					<ogeo type="str">შევამსახური</ogeo>
+					<lemma type="str">მსახურ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐδαπάνων </grc>
+					<arm type="str">ծախէի </arm>
+					<eng type="str">serve</eng>
+				</item>
+				<item type="dict">
+					<id type="int">76</id>
+					<ogeo type="str">იჱრუსალემს</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">77</id>
+					<ogeo type="str">თითოეულსა</ogeo>
+					<lemma type="str">თითოეულ</lemma>
+					<gram type="str">PRON.Sg.Dat</gram>
+					<grc type="str">καθ᾽ ἕκαστον </grc>
+					<arm type="str">ըստամենայն </arm>
+					<eng type="str">each</eng>
+				</item>
+				<item type="dict">
+					<id type="int">78</id>
+					<ogeo type="str">წელიწადსა.</ogeo>
+					<lemma type="str">წელიწად</lemma>
+					<gram type="str">N.Sg.Dat</gram>
+					<grc type="str">ἐνιαυτόν</grc>
+					<arm type="str"> տարեկանի</arm>
+					<eng type="str">year</eng>
+				</item>
+			</tags>
+		</item>
+		<item type="dict">
+			<index type="str">1,8</index>
+			<text type="str">ხ~ მესამე ათეული მივსცი, ვიეთა-იგი ჯერ-არნ . ვ~ა-იგი ...</text>
+			<translation type="str"> καὶ τὴν τρίτην (+ δεκάτην Geo) ἐδίδουν οἷς καθήκει καθὼς</translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">79</id>
+					<ogeo type="str">ხ~</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">80</id>
+					<ogeo type="str">მესამე</ogeo>
+					<lemma type="str">მესამე</lemma>
+					<gram type="str">NUM.Nom</gram>
+					<grc type="str">τὴν τρίτην </grc>
+					<arm type="str">զերրորդն </arm>
+					<eng type="str">third</eng>
+				</item>
+				<item type="dict">
+					<id type="int">81</id>
+					<ogeo type="str">ათეული</ogeo>
+					<lemma type="str">ათეულ</lemma>
+					<gram type="str">NUM.Nom</gram>
+					<grc type="str">δεκάτην </grc>
+					<arm type="str">տասանորդսն</arm>
+					<eng type="str">tithe</eng>
+				</item>
+				<item type="dict">
+					<id type="int">82</id>
+					<ogeo type="str">მივსცი,</ogeo>
+					<lemma type="str">ცემ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐδίδουν</grc>
+					<arm type="str">տայի </arm>
+					<eng type="str">give</eng>
+				</item>
+				<item type="dict">
+					<id type="int">83</id>
+					<ogeo type="str">ვიეთა-იგი</ogeo>
+					<lemma type="str">ვიეთა-იგი</lemma>
+					<gram type="str">Pron.Sg.Nom</gram>
+					<grc type="str">οἷς</grc>
+					<arm type="str">որոց </arm>
+					<eng type="str">who</eng>
+				</item>
+				<item type="dict">
+					<id type="int">84</id>
+					<ogeo type="str">ჯერ-არნ</ogeo>
+					<lemma type="str">ჯერ-არს</lemma>
+					<gram type="str">V.Pres.3Sg</gram>
+					<grc type="str">καθήκει</grc>
+					<arm type="str">արժա՛ն էր  </arm>
+					<eng type="str">worthy-be</eng>
+				</item>
+				<item type="dict">
+					<id type="int">85</id>
+					<ogeo type="str">.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">86</id>
+					<ogeo type="str">ვ~ა-იგი</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">87</id>
+					<ogeo type="str">...</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+			</tags>
+		</item>
+		<item type="dict">
+			<index type="str">1,13</index>
+			<text type="str">ვაჭარ :</text>
+			<translation type="str">ἀγοραστής</translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">88</id>
+					<ogeo type="str">ვაჭარ</ogeo>
+					<lemma type="str">ვაჭარ</lemma>
+					<gram type="str">N.Sg.Abs</gram>
+					<grc type="str">ἀγοραστής</grc>
+					<arm type="str">վաճառական</arm>
+					<eng type="str">merchant</eng>
+				</item>
+				<item type="dict">
+					<id type="int">89</id>
+					<ogeo type="str">:</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+			</tags>
+		</item>
+		<item type="dict">
+			<index type="str">1,14 და მივიდოდე ხუჟიკეთა . და დავჰვედრე გაბაელს,ძმასა გაბრიაჲსსა . ჰრაგუელს შ~ა . ხუჟიკეთისასა . ვეცხლისაჲ ათი ტალანტი . რ~ლ არს ათი ქანქარი :.</index>
+			<text type="str"/>
+			<translation type="str"> </translation>
+			<tags type="list"/>
+		</item>
+		<item type="dict">
+			<index type="str">1.15</index>
+			<text type="str">და ოდეს მოკუდა ენემესარ . მეფობდა სენაქერიმ, ძე მისი, მის წილ და გზანი მისნი შფოთ იყვნეს . და ვერღარა ვიკადრე მისლვად ხუჟიკეთა :.</text>
+			<translation type="str"> </translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">90</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">91</id>
+					<ogeo type="str">ოდეს</ogeo>
+					<lemma type="str">ოდეს</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">ὅτε </grc>
+					<arm type="str">յորժամ  </arm>
+					<eng type="str">when</eng>
+				</item>
+				<item type="dict">
+					<id type="int">92</id>
+					<ogeo type="str">მოკუდა</ogeo>
+					<lemma type="str">კუდ</lemma>
+					<gram type="str">V.Aor.3Sg</gram>
+					<grc type="str">ἀπέθανεν </grc>
+					<arm type="str">մեռաւ </arm>
+					<eng type="str">die</eng>
+				</item>
+				<item type="dict">
+					<id type="int">93</id>
+					<ogeo type="str">ენემესარ</ogeo>
+					<lemma type="str">ენემესარ</lemma>
+					<gram type="str">PN.ABS</gram>
+					<grc type="str">Ἐνεμέσσαρος</grc>
+					<arm type="str">Նեմեսար, </arm>
+					<eng type="str">Enemessar</eng>
+				</item>
+				<item type="dict">
+					<id type="int">94</id>
+					<ogeo type="str">.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">95</id>
+					<ogeo type="str">მეფობდა</ogeo>
+					<lemma type="str">მეფ</lemma>
+					<gram type="str">V.Aor.3SG</gram>
+					<grc type="str">ἐβασίλευσεν</grc>
+					<arm type="str">թագաւորեաց </arm>
+					<eng type="str">reign</eng>
+				</item>
+				<item type="dict">
+					<id type="int">96</id>
+					<ogeo type="str">სენაქერიმ,</ogeo>
+					<lemma type="str">სენაქერიმ</lemma>
+					<gram type="str">PN.ABS</gram>
+					<grc type="str">Σενναχηρεὶμ</grc>
+					<arm type="str">Սենեքերիմ </arm>
+					<eng type="str">Sennakerim</eng>
+				</item>
+				<item type="dict">
+					<id type="int">97</id>
+					<ogeo type="str">ძე</ogeo>
+					<lemma type="str">ძე</lemma>
+					<gram type="str">N.Sg.Abs</gram>
+					<grc type="str">ὁ υἱὸς</grc>
+					<arm type="str">որդի </arm>
+					<eng type="str">son</eng>
+				</item>
+				<item type="dict">
+					<id type="int">98</id>
+					<ogeo type="str">მისი,</ogeo>
+					<lemma type="str">მის</lemma>
+					<gram type="str">PRON.Sg.Nom</gram>
+					<grc type="str">αὐτοῦ</grc>
+					<arm type="str">նորա </arm>
+					<eng type="str">his</eng>
+				</item>
+				<item type="dict">
+					<id type="int">99</id>
+					<ogeo type="str">მის</ogeo>
+					<lemma type="str">იგი</lemma>
+					<gram type="str">PRON.Sg.Gen</gram>
+					<grc type="str">αὐτοῦ</grc>
+					<arm type="str"> նորա.</arm>
+					<eng type="str">he</eng>
+				</item>
+				<item type="dict">
+					<id type="int">100</id>
+					<ogeo type="str">წილ</ogeo>
+					<lemma type="str">წილ</lemma>
+					<gram type="str">ADV.</gram>
+					<grc type="str">ἀντ᾽</grc>
+					<arm type="str">փոխանակ</arm>
+					<eng type="str">instead</eng>
+				</item>
+				<item type="dict">
+					<id type="int">101</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">102</id>
+					<ogeo type="str">გზანი</ogeo>
+					<lemma type="str">გზა</lemma>
+					<gram type="str">N.Pl.Nom</gram>
+					<grc type="str">αἱ ὁδοὶ</grc>
+					<arm type="str">3յամս </arm>
+					<eng type="str">road</eng>
+				</item>
+				<item type="dict">
+					<id type="int">103</id>
+					<ogeo type="str">მისნი</ogeo>
+					<lemma type="str">მის</lemma>
+					<gram type="str">PRON.Sg.Pl.Nom</gram>
+					<grc type="str">αὐτοῦ</grc>
+					<arm type="str">4նորա, </arm>
+					<eng type="str">his</eng>
+				</item>
+				<item type="dict">
+					<id type="int">104</id>
+					<ogeo type="str">შფოთ</ogeo>
+					<lemma type="str">შფოთ</lemma>
+					<gram type="str">N.Sg.Abs</gram>
+					<grc type="str">ἠκαταστάτησαν</grc>
+					<arm type="str">խռո՛վ </arm>
+					<eng type="str">trouble</eng>
+				</item>
+				<item type="dict">
+					<id type="int">105</id>
+					<ogeo type="str">იყვნეს</ogeo>
+					<lemma type="str">ყოფა</lemma>
+					<gram type="str">V.Aor.3Pl</gram>
+					<grc type="float">nan</grc>
+					<arm type="str">էր</arm>
+					<eng type="str">be</eng>
+				</item>
+				<item type="dict">
+					<id type="int">106</id>
+					<ogeo type="str">.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">107</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">108</id>
+					<ogeo type="str">ვერღარა</ogeo>
+					<lemma type="str">ვერღარა</lemma>
+					<gram type="str">PRT</gram>
+					<grc type="str">οὐκέτι </grc>
+					<arm type="str">ո՛չ</arm>
+					<eng type="str">no more</eng>
+				</item>
+				<item type="dict">
+					<id type="int">109</id>
+					<ogeo type="str">ვიკადრე</ogeo>
+					<lemma type="str">კადრ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἠδυνάσθην </grc>
+					<arm type="str">եղեւ ինձ</arm>
+					<eng type="str">be able</eng>
+				</item>
+				<item type="dict">
+					<id type="int">110</id>
+					<ogeo type="str">მისლვად</ogeo>
+					<lemma type="str">სლვა</lemma>
+					<gram type="str">N.Sg.ADV</gram>
+					<grc type="str">πορευθῆναι </grc>
+					<arm type="str">  երթալ</arm>
+					<eng type="str">go</eng>
+				</item>
+				<item type="dict">
+					<id type="int">111</id>
+					<ogeo type="str">ხუჟიკეთა</ogeo>
+					<lemma type="str">ხუჟიკეთ</lemma>
+					<gram type="str">PN.Adv</gram>
+					<grc type="str">εἰς τὴν Μηδίαν </grc>
+					<arm type="str">՛ի Մարս  [Mar-s]</arm>
+					<eng type="str">Media</eng>
+				</item>
+				<item type="dict">
+					<id type="int">112</id>
+					<ogeo type="str">:.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+			</tags>
+		</item>
+		<item type="dict">
+			<index type="str">1,16</index>
+			<text type="str">და დღეთა ენემესარისთა მოწყ~ლებასა მრვ~ლსა ვჰყოფდი ძმათა ჩ~მთათ~ს.</text>
+			<translation type="str">καὶ ἐν ταῖς ἡμέραις Ἐνεμεσσάρου ἐλεημοσύνας πολλὰς ἐποίουν τοῖς ἀδελφοῖς μου</translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">113</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">114</id>
+					<ogeo type="str">დღეთა</ogeo>
+					<lemma type="str">დღე</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τὰς ἡμέρας</grc>
+					<arm type="str">յաւուրս </arm>
+					<eng type="str">day</eng>
+				</item>
+				<item type="dict">
+					<id type="int">115</id>
+					<ogeo type="str">ენემესარისთა</ogeo>
+					<lemma type="str">ენემესარ</lemma>
+					<gram type="str">PN.Gen</gram>
+					<grc type="str">Ἐνεμεσσάρου</grc>
+					<arm type="str">Ենեմեսարու </arm>
+					<eng type="str">Enemessar</eng>
+				</item>
+				<item type="dict">
+					<id type="int">116</id>
+					<ogeo type="str">მოწყ~ლებასა</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">117</id>
+					<ogeo type="str">მრვ~ლსა</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">118</id>
+					<ogeo type="str">ვჰყოფდი</ogeo>
+					<lemma type="str">ყოფა</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐποίουν </grc>
+					<arm type="str">առնէի + ես  [I] </arm>
+					<eng type="str">make</eng>
+				</item>
+				<item type="dict">
+					<id type="int">119</id>
+					<ogeo type="str">ძმათა</ogeo>
+					<lemma type="str">ძმა</lemma>
+					<gram type="str">N.Pl.Gen</gram>
+					<grc type="str">τοῖς ἀδελφοῖς </grc>
+					<arm type="str">եղբարց </arm>
+					<eng type="str">brother</eng>
+				</item>
+				<item type="dict">
+					<id type="int">120</id>
+					<ogeo type="str">ჩ~მთათ~ს.</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+			</tags>
+		</item>
+		<item type="dict">
+			<index type="str">1,17</index>
+			<text type="str">პურსა ჩ~მსა ვსცემდ მშიერთა და სამოსელსა - შიშუჱლთა . და უკ~თუ სადა ვინ ვიხილი ნ~თესვისა ჩ~ნისაგანი</text>
+			<translation type="str">τοὺς ἄρτους μου ἐδίδουν τοῖς πεινῶσιν καὶ τὰ ἱμάτιά τοῖς γυμνοῖς καὶ εἴ τινα ἐθεώρουν ἐκ τοῦ γένους μου</translation>
+			<tags type="list">
+				<item type="dict">
+					<id type="int">121</id>
+					<ogeo type="str">პურსა</ogeo>
+					<lemma type="str">პურ</lemma>
+					<gram type="str">N.Sg.Dat</gram>
+					<grc type="str">τοὺς ἄρτους </grc>
+					<arm type="str">զհա՛ց  </arm>
+					<eng type="str">bread</eng>
+				</item>
+				<item type="dict">
+					<id type="int">122</id>
+					<ogeo type="str">ჩ~მსა</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">123</id>
+					<ogeo type="str">ვსცემდ</ogeo>
+					<lemma type="str">ცემ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐδίδουν</grc>
+					<arm type="str">տայի  </arm>
+					<eng type="str">give</eng>
+				</item>
+				<item type="dict">
+					<id type="int">124</id>
+					<ogeo type="str">მშიერთა</ogeo>
+					<lemma type="str">მშიერ</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τοῖς πεινῶσιν </grc>
+					<arm type="str">քաղցելոց</arm>
+					<eng type="str">hungry</eng>
+				</item>
+				<item type="dict">
+					<id type="int">125</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">126</id>
+					<ogeo type="str">სამოსელსა</ogeo>
+					<lemma type="str">სამოსელ</lemma>
+					<gram type="str">N.Sg.Dat</gram>
+					<grc type="str">τὰ ἱμάτιά</grc>
+					<arm type="str">զձորձ  +իմ</arm>
+					<eng type="str">clothing</eng>
+				</item>
+				<item type="dict">
+					<id type="int">127</id>
+					<ogeo type="str">-</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">128</id>
+					<ogeo type="str">შიშუჱლთა</ogeo>
+					<lemma type="str">შიშუჱლ</lemma>
+					<gram type="str">N.Pl.Dat</gram>
+					<grc type="str">τοῖς γυμνοῖς </grc>
+					<arm type="str">մերկոց</arm>
+					<eng type="str">naked</eng>
+				</item>
+				<item type="dict">
+					<id type="int">129</id>
+					<ogeo type="str">.</ogeo>
+					<lemma type="float">nan</lemma>
+					<gram type="float">nan</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="float">nan</eng>
+				</item>
+				<item type="dict">
+					<id type="int">130</id>
+					<ogeo type="str">და</ogeo>
+					<lemma type="str">და</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="str">καὶ </grc>
+					<arm type="str">եւ </arm>
+					<eng type="str">and</eng>
+				</item>
+				<item type="dict">
+					<id type="int">131</id>
+					<ogeo type="str">უკ~თუ</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">132</id>
+					<ogeo type="str">სადა</ogeo>
+					<lemma type="str">სადა</lemma>
+					<gram type="str">CONJ.</gram>
+					<grc type="float">nan</grc>
+					<arm type="float">nan</arm>
+					<eng type="str">where</eng>
+				</item>
+				<item type="dict">
+					<id type="int">133</id>
+					<ogeo type="str">ვინ</ogeo>
+					<lemma type="str">ვინ</lemma>
+					<gram type="str">PRON.Nom</gram>
+					<grc type="str">τινα </grc>
+					<arm type="str">զոր  </arm>
+					<eng type="str">who</eng>
+				</item>
+				<item type="dict">
+					<id type="int">134</id>
+					<ogeo type="str">ვიხილი</ogeo>
+					<lemma type="str">ხილ</lemma>
+					<gram type="str">V.Aor.1Sg</gram>
+					<grc type="str">ἐθεώρουν </grc>
+					<arm type="str">1տեսանէի +ես  [I]</arm>
+					<eng type="str">see</eng>
+				</item>
+				<item type="dict">
+					<id type="int">135</id>
+					<ogeo type="str">ნ~თესვისა</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+				<item type="dict">
+					<id type="int">136</id>
+					<ogeo type="str">ჩ~ნისაგანი</ogeo>
+					<lemma type="str"/>
+					<gram type="str"/>
+					<grc type="str"/>
+					<arm type="str"/>
+					<eng type="str"/>
+				</item>
+			</tags>
+		</item>
+	</content>
+	<notes type="list">
+		<item type="str"> </item>
+		<item type="str"> </item>
+	</notes>
+</root>
