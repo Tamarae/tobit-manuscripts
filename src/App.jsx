@@ -139,7 +139,7 @@ const App = () => {
         const promises = files.map(async (file) => {
           try {
             // Load XML
-            const xmlResponse = await fetch(`/manuscripts/${file.xml}`);
+            const xmlResponse = await fetch(`${import.meta.env.BASE_URL}manuscripts/${file.xml}`);
             const xmlText = await xmlResponse.text();
             const xmlDoc = parseXML(xmlText);
             let manuscript = parseManuscript(xmlDoc, file.xml);
@@ -147,7 +147,7 @@ const App = () => {
 
             // Load CSV annotations
             try {
-              const csvResponse = await fetch(`/manuscripts/${file.csv}`);
+              const csvResponse = await fetch(`${import.meta.env.BASE_URL}manuscripts/${file.csv}`);
               const csvText = await csvResponse.text();
               const result = Papa.parse(csvText, {
                 header: true,
@@ -278,7 +278,7 @@ const App = () => {
   const HomeView = () => (
     <div
       className="min-h-screen bg-cover bg-center bg-no-repeat relative"
-      style={{ backgroundImage: 'url(/images/tobit-cover.png)' }}
+      style={{ backgroundImage: `url(${import.meta.env.BASE_URL}images/tobit-cover.png)` }}
     >
       {/* Dark overlay for readability */}
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
