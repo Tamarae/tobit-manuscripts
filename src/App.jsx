@@ -127,11 +127,11 @@ const App = () => {
     const loadManuscripts = async () => {
       try {
         const files = [
-          { xml: 'O.xml', csv: 'O.csv', title: 'ოშკის ბიბლია (Ath.1)' },
-          { xml: 'I.xml', csv: 'I.csv', title: 'A-570' },
-          { xml: 'D.xml', csv: 'D.csv', title: 'H-885' },
-          { xml: 'M.xml', csv: 'M.csv', title: 'm7125' },
-          { xml: 'F.xml', csv: 'F.csv', title: 'A-646' }
+          { xml: 'O.xml', csv: 'modified_anot_O.csv', title: 'ოშკის ბიბლია (Ath.1)' },
+          { xml: 'I.xml', csv: 'modified_anot_I.csv', title: 'A-570' },
+          { xml: 'D.xml', csv: 'modified_anot_D.csv', title: 'H-885' },
+          { xml: 'M.xml', csv: 'modified_anot_M.csv', title: 'm7125' },
+          { xml: 'F.xml', csv: 'modified_anot_F.csv', title: 'A-646' }
         ];
 
         const Papa = await import('papaparse');
